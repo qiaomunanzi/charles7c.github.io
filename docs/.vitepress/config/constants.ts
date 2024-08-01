@@ -1,4 +1,4 @@
-const site = 'https://blog.charles7c.top';
+const site = 'https://qxs-docs.top';
 
 export const metaData = {
   lang: 'zh-CN',
