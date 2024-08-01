@@ -1,12 +1,12 @@
 ---
 layout: home
 
-title: 查尔斯的知识库
-titleTemplate: 个人技术知识库，记录和分享个人碎片化、结构化、体系化的技术知识内容
+title: 乔先森的知识库
+titleTemplate: 个人知识库，记录和分享个人碎片化、结构化、体系化的技术知识内容
 
 hero:
-  name: 查尔斯的知识库
-  text: 专注 & 洞察 & 分享
+  name: 乔先森的知识库
+  text: 折腾 & 学习 & 记录
   tagline: 个人技术知识库，记录 & 分享个人碎片化、结构化、体系化的技术知识内容。
   image:
     src: /logo.png
