@@ -3,8 +3,8 @@ import { metaData } from './constants';
 
 export const head: HeadConfig[] = [
   ['link', { rel: 'icon', href: '/favicon.ico' }],
-  ['meta', { name: 'author', content: 'Charles7c' }],
-  ['meta', { name: 'keywords', content: '查尔斯的知识库, 知识库, 博客, Charles7c' }],
+  ['meta', { name: 'author', content: '乔先森' }],
+  ['meta', { name: 'keywords', content: '乔先森的知识库, 知识库, 博客, 乔先森' }],
 
   ['meta', { name: 'HandheldFriendly', content: 'True' }],
   ['meta', { name: 'MobileOptimized', content: '320' }],
@@ -22,7 +22,7 @@ export const head: HeadConfig[] = [
   ['script', {}, `var _hmt = _hmt || [];
   (function() {
     var hm = document.createElement("script");
-    hm.src = "https://hm.baidu.com/hm.js?53af4b1a12fbe40810ca7ad39f8db9c7";
+    hm.src = "https://hm.baidu.com/hm.js?30e50c7398ac176e5f21cf95ab27d7b5";
     var s = document.getElementsByTagName("script")[0]; 
     s.parentNode.insertBefore(hm, s);
   })();`],
