@@ -7,17 +7,20 @@ titleTemplate: 个人知识库，记录和分享个人碎片化、结构化、�
 hero:
   name: 乔先森的知识库
   text: 折腾 & 学习 & 记录
-  tagline: 个人技术知识库，记录 & 分享个人碎片化、结构化、体系化的技术知识内容。
+  tagline: 个人知识库，记录 & 分享个人碎片化、结构化、体系化的技术知识内容。
   image:
     src: /logo.png
     alt: Logo
   actions:
+    - theme: alt
+      text: 博客
+      link: /categories/issues/index
     - theme: brand
       text: 快速开始
       link: /categories/issues/index
     - theme: alt
       text: 在 GitHub 查看
-      link: https://github.com/Charles7c/charles7c.github.io
+      link: https://github.com/qiaomunanzi
 
 features:
   - icon:
