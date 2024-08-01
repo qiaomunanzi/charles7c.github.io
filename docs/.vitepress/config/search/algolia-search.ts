@@ -1,9 +1,9 @@
 import type { AlgoliaSearchOptions } from 'vitepress';
 
 export const algoliaSearchOptions: AlgoliaSearchOptions = {
-  appId: 'GZWLIEMA04',
-  apiKey: 'b6d3212b9e9d500ec0dc4f0d5bcd9d2b',
-  indexName: 'qxt-top',
+  appId: 'DBZ0G9HBUY',
+  apiKey: '00cef480a543003d05d9808110ea5f65',
+  indexName: 'charles7c',
   locales: {
     root: {
       placeholder: '搜索文档',

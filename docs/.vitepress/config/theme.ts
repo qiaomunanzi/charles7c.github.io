@@ -29,11 +29,15 @@ export const themeConfig: DefaultTheme.Config = {
   },
   // 搜索配置（二选一）
   search: {
-    provider: 'algolia',
-    options: algoliaSearchOptions,
+    provider: 'local',
+    options: localSearchOptions,
     // 本地离线搜索
     // provider: 'local',
     // options: localSearchOptions
+
+    //algolia搜索
+    // provider: 'algolia',
+    // options: algoliaSearchOptions
   },
   // 导航栏右侧社交链接配置
   socialLinks: [
@@ -44,21 +48,6 @@ export const themeConfig: DefaultTheme.Config = {
       },
       link: 'https://gitee.com/Charles7c/charles7c'
     },
-    {
-      icon: {
-        svg: `<svg width="33" height="33" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 174.8 204">
-                <title>ContiNew Admin</title>
-                <path fill="#307AF2" d="M86.7,0l88,51v.2l-16.3,9.4v-.2L86.7,18.9Zm71.8,143.5,16.3,9.4v.2L86.8,204h0l-16.3-9.4,16.3-9.4h0l71.7-41.5v-.2Z"/>
-                <path fill="#12D2AC" d="M16.3,143.5v.2L58,167.8l-16.3,9.4L0,153.1v-.2Z"/>
-                <path fill="#12D2AC" d="M104.1,93,15.9,143.8l-.2-.1V124.9l.2.1L87.7,83.6,104.1,93Z"/>
-                <path fill="#0057FE" d="M88.1,0,.1,51v.2l16.3,9.4v-.2L88.1,18.9Z"/>
-                <path fill="#307AF2" d="M.1,50.9.2,152.6l.2.1,16.3-9.4-.2-.1-.1-82.9L.1,50.9Z"/>
-                <path fill="#0057FE" d="M174.7,50.9l-.1,101.7-.2.1-16.3-9.4.2-.1.1-82.9Z"/>
-                <path fill="#12D2AC" d="M41.7,158.5l16.1,9.4,100.6-58.7V90.4Z"/>
-              </svg>`
-      },
-      link: 'https://cnadmin.charles7c.top/'
-    }
   ],
 
   // 自定义扩展: 文章元数据配置
@@ -83,6 +72,6 @@ export const themeConfig: DefaultTheme.Config = {
     showFooter: true, // 是否显示页脚
     icpRecordCode: '冀ICP备2024005888号-1', // ICP备案号
     publicSecurityRecordCode: '冀公网安备12011202000688号', // 联网备案号
-    copyright: `Copyright © 2024-${new Date().getFullYear()} 乔先森` // 版权信息
+    copyright: `Copyright © ${new Date().getFullYear()} 乔先森` // 版权信息
   }
 }
