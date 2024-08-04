@@ -5,7 +5,8 @@ import { getChineseZodiac, getChineseZodiacAlias } from '../theme/utils.ts';
 const sync = fg.sync;
 
 export const sidebar: DefaultTheme.Config['sidebar'] = {
-
+  '/allinone/PVE/': getItemsByDate("allinone/PVE"),
+  '/allinone/iStoreOS/': getItemsByDate("allinone/iStoreOS"),
 
   '/categories/issues/': getItemsByDate("categories/issues"),
   '/categories/fragments/': getItemsByDate("categories/fragments"),
