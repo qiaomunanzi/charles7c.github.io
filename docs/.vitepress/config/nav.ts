@@ -15,7 +15,7 @@ export const nav: DefaultTheme.Config['nav'] = [
   {
     text: '我的工具',
     items: [
-      { text: '工具 & 软件', link: '/categories/tools/index', activeMatch: '/categories/tools/' },
+      { text: '工具软件', link: '/categories/tools/index', activeMatch: '/categories/tools/' },
       { text: '网站收藏夹', link: '/categories/favorites/index', activeMatch: '/categories/favorites/' }
     ],
     activeMatch: '/categories/'
