@@ -73,5 +73,19 @@ export const themeConfig: DefaultTheme.Config = {
     icpRecordCode: '冀ICP备2024005888号-1', // ICP备案号
     publicSecurityRecordCode: '冀公网安备12011202000688号', // 联网备案号
     copyright: `Copyright © ${new Date().getFullYear()} 乔先森` // 版权信息
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3"/>
+  },
+  {
+    "url": "http://www.qxs-docs.top/sitemap.xml",
+    "status": "SKIPPED",
+    "statusReason": "http_redirect_invalid",
+    "duration": 1632,
+    "http": {
+      "code": 308,
+      "contentType": null,
+      "contentLength": 14
+    },
+    "records": [],
+    "links": []
   }
 }
