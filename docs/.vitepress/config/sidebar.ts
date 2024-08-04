@@ -12,8 +12,8 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
   '/categories/solutions/': getItemsByDate("categories/solutions"),
 
   '/categories/tools/': getItemsByDate("categories/tools"),
-  '/categories/favorites/': getItemsByDate("categories/favorites"),
-  
+
+
   '/courses/java/': getItems("courses/java"),
   '/courses/mysql/': getItems("courses/mysql"),
   '/courses/mybatis/': getItems("courses/mybatis"),
