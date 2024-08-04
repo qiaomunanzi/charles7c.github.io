@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /categories/issues/index
+      link: /categories/all-in-one/index
     - theme: alt
       text: 在 GitHub 查看
       link: https://github.com/qiaomunanzi/qxs-docs
