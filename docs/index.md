@@ -12,9 +12,6 @@ hero:
     src: /logo.png
     alt: Logo
   actions:
-    - theme: alt
-      text: 博客
-      link: /categories/issues/index
     - theme: brand
       text: 快速开始
       link: /categories/issues/index
