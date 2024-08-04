@@ -2,6 +2,14 @@ import type { DefaultTheme } from 'vitepress';
 
 export const nav: DefaultTheme.Config['nav'] = [
   {
+    text: 'All in one',
+    items: [
+      { text: 'PVE', link: '/categories/issues/index', activeMatch: '/categories/issues/' },
+      { text: 'iStoreOS', link: '/categories/fragments/index', activeMatch: '/categories/fragments/' },
+    ],
+    activeMatch: '/all-in-one/'
+  },
+  {
     text: '我的分类',
     items: [
       { text: 'Bug万象集', link: '/categories/issues/index', activeMatch: '/categories/issues/' },
