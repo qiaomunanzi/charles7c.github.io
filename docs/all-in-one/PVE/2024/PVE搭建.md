@@ -12,7 +12,6 @@ tags:
 
 # 个人 SQL 优化技巧 <Badge text="持续更新" type="warning" />
 
-<!-- more -->
 
 ## 查询优化
 
