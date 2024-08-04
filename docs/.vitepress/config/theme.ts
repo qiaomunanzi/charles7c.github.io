@@ -29,8 +29,8 @@ export const themeConfig: DefaultTheme.Config = {
   },
   // 搜索配置（二选一）
   search: {
-    provider: 'local',
-    options: localSearchOptions,
+    provider: 'algolia',
+    options: algoliaSearchOptions,
     // 本地离线搜索
     // provider: 'local',
     // options: localSearchOptions
