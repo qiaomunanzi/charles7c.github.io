@@ -8,31 +8,31 @@ showComment: false
 
 <img width=100% src="../public/img/svg/about-me-header.svg" alt="头部图" />
 <p align="center">
-  <a href="https://blog.charles7c.top/" target="_blank" style="display: inline-block;">
-    <img alt="个人主页" src="https://img.shields.io/badge/知识库-查尔斯-lightblue?logo=blogger&logoColor=lightblue" />
+  <a href="https://www.qxs-docs.top/" target="_blank" style="display: inline-block;">
+    <img alt="个人主页" src="https://img.shields.io/badge/知识库-乔先森-lightblue?logo=blogger&logoColor=lightblue" />
   </a>&nbsp;
-    <a href="https://github.com/Charles7c" target="_blank" style="display: inline-block;">
-        <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-Charles7c-lightblue?logo=github" />
+    <a href="https://github.com/qiaomunanzi" target="_blank" style="display: inline-block;">
+        <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-qiaomunanzi-lightblue?logo=github" />
     </a>&nbsp;
     <a href="https://gitee.com/Charles7c" target="_blank" style="display: inline-block;">
-        <img alt="码云个人主页" src="https://img.shields.io/badge/码云-Charles7c-C71D23?logo=gitee&logoColor=C71D23" />
+        <img alt="码云个人主页" src="https://img.shields.io/badge/码云-qiaomunanzi-C71D23?logo=gitee&logoColor=C71D23" />
     </a>&nbsp;
     <a href="https://blog.csdn.net/Charles_7c" target="_blank" style="display: inline-block;">
-        <img alt="CSDN个人主页" src="https://img.shields.io/badge/CSDN-查尔斯-FC5531?logo=C&logoColor=FC5531" />
+        <img alt="CSDN个人主页" src="https://img.shields.io/badge/CSDN-qiaomunanzi-FC5531?logo=C&logoColor=FC5531" />
     </a>&nbsp;
     <a href="https://juejin.cn/user/685744115170142" target="_blank" style="display: inline-block;">
-        <img alt="掘金个人主页" src="https://img.shields.io/badge/掘金-查尔斯-1E80FF" />
+        <img alt="掘金个人主页" src="https://img.shields.io/badge/掘金-qiaomunanzi-1E80FF" />
     </a>&nbsp;
     <a href="https://www.yuque.com/charles7c" target="_blank" style="display: inline-block;">
-        <img alt="语雀个人主页" src="https://img.shields.io/badge/语雀-查尔斯-38D27D" />
+        <img alt="语雀个人主页" src="https://img.shields.io/badge/语雀-qiaomunanzi-38D27D" />
     </a>&nbsp;
 </p>
 
 ---
-- 👋 Hi, I'm Charles7c
+- 👋 Hi, I'm qiaomunanzi
 - 🔭 I'm currently working on backend development
-- 📫 How to reach me: [charles7c@126.com](mailto:charles7c@126.com)
-- 📖 My motto: “东隅已逝，桑榆非晚。”
+- 📫 How to reach me: [qiaomunanzi@gmail.com](mailto:qiaomunanzi@gmail.com)
+- 📖 My motto: “边折腾 · 边学习 · 边记录。”
 ---
 
 ### 后端技术栈
