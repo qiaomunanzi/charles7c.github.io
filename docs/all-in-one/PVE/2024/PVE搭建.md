@@ -1,13 +1,13 @@
 ---
-title: 个人 SQL 优化技巧
-author: qxs
-date: 2019/12/28 10:00
+title: 利用PVE虚拟机搭建All-in-one
+author: 乔先森
+date: 2024/08/04 10:00
 isTop: true
 categories:
- - 杂碎逆袭史
+ - PVE虚拟机
 tags:
- - SQL
- - SQL优化
+ - PVE
+ - 虚拟机
 ---
 
 # 个人 SQL 优化技巧 <Badge text="持续更新" type="warning" />
