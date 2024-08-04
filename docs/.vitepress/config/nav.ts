@@ -4,8 +4,8 @@ export const nav: DefaultTheme.Config['nav'] = [
   {
     text: 'All in one',
     items: [
-      { text: 'PVE', link: '/categories/issues/index', activeMatch: '/categories/issues/' },
-      { text: 'iStoreOS', link: '/categories/fragments/index', activeMatch: '/categories/fragments/' },
+      { text: 'PVE', link: '/all-in-one/PVE/index', activeMatch: '/all-in-one/PVE/' },
+      { text: 'iStoreOS', link: '/all-in-one/iStoreOS/index', activeMatch: '/all-in-one/iStoreOS/' },
     ],
     activeMatch: '/all-in-one/'
   },
