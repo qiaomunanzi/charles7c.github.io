@@ -4,10 +4,10 @@ export const nav: DefaultTheme.Config['nav'] = [
   {
     text: 'All in one',
     items: [
-      { text: 'PVE虚拟机', link: '/all-in-one/PVE/index', activeMatch: '/all-in-one/PVE/' },
-      { text: 'iStoreOS软路由', link: '/all-in-one/iStoreOS/index', activeMatch: '/all-in-one/iStoreOS/' },
+      { text: 'PVE虚拟机', link: '/categories/all-in-one/index', activeMatch: '/categories/all-in-one/' },
+      { text: 'iStoreOS软路由', link: '/categories/all-in-one/index', activeMatch: '/categories/all-in-one/' },
     ],
-    activeMatch: '/allinone/'
+    activeMatch: '/categories/'
   },
   {
     text: '我的分类',
