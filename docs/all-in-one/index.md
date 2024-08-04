@@ -8,6 +8,5 @@ showComment: false
 # All in one小主机
 
 ::: tip 笔者说
-你读过的书，遇过的人，扛过的事，写过的 Bug，构成了你作为开发者的人生格局。
-
+利用PVE虚拟机搭建All in one，实现iStoreOS软路由、Windows下载机、黑群晖等功能。
 :::

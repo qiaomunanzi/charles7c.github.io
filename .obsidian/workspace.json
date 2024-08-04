@@ -11,9 +11,11 @@
             "id": "5e94c2845ebabd32",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/public/img/svg/about-me-header.svg"
+                "file": "docs/about/index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/public/img/svg/about-me-header.svg",
+                "file": "docs/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/public/img/svg/about-me-header.svg",
+                "file": "docs/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/public/img/svg/about-me-header.svg"
+                "file": "docs/about/index.md"
               }
             }
           }
@@ -146,11 +148,13 @@
   },
   "active": "5e94c2845ebabd32",
   "lastOpenFiles": [
+    "docs/about/me.md",
+    "docs/all-in-one/index.md",
+    "docs/public/img/svg/about-me-header.svg",
     "docs/about/index.md",
     "docs/index.md",
     "docs/tags.md",
     "docs/archives.md",
-    "docs/about/me.md",
     "docs/categories/issues/index.md"
   ]
 }
