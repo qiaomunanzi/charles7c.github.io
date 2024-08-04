@@ -12,19 +12,16 @@ showComment: false
     <img alt="个人主页" src="https://img.shields.io/badge/知识库-乔先森-lightblue?logo=blogger&logoColor=lightblue" />
   </a>&nbsp;
     <a href="https://github.com/qiaomunanzi" target="_blank" style="display: inline-block;">
-        <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-qiaomunanzi-lightblue?logo=github" />
+        <img alt="GitHub个人主页" src="https://img.shields.io/badge/GitHub-乔先森-lightblue?logo=github" />
     </a>&nbsp;
-    <a href="https://gitee.com/Charles7c" target="_blank" style="display: inline-block;">
-        <img alt="码云个人主页" src="https://img.shields.io/badge/码云-qiaomunanzi-C71D23?logo=gitee&logoColor=C71D23" />
+    <a href="https://gitee.com/qiaomunanzi" target="_blank" style="display: inline-block;">
+        <img alt="码云个人主页" src="https://img.shields.io/badge/码云-乔先森-C71D23?logo=gitee&logoColor=C71D23" />
     </a>&nbsp;
-    <a href="https://blog.csdn.net/Charles_7c" target="_blank" style="display: inline-block;">
-        <img alt="CSDN个人主页" src="https://img.shields.io/badge/CSDN-qiaomunanzi-FC5531?logo=C&logoColor=FC5531" />
+    <a href="https://blog.csdn.net/qiaomunanzi" target="_blank" style="display: inline-block;">
+        <img alt="CSDN个人主页" src="https://img.shields.io/badge/CSDN-乔先森-FC5531?logo=C&logoColor=FC5531" />
     </a>&nbsp;
-    <a href="https://juejin.cn/user/685744115170142" target="_blank" style="display: inline-block;">
-        <img alt="掘金个人主页" src="https://img.shields.io/badge/掘金-qiaomunanzi-1E80FF" />
-    </a>&nbsp;
-    <a href="https://www.yuque.com/charles7c" target="_blank" style="display: inline-block;">
-        <img alt="语雀个人主页" src="https://img.shields.io/badge/语雀-qiaomunanzi-38D27D" />
+    <a href="https://www.yuque.com/qiaomunanzi" target="_blank" style="display: inline-block;">
+        <img alt="语雀个人主页" src="https://img.shields.io/badge/语雀-乔先森-38D27D" />
     </a>&nbsp;
 </p>
 
