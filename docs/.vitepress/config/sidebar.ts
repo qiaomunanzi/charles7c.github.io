@@ -8,8 +8,6 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
   '/categories/all-in-one/': getItemsByDate("categories/all-in-one"),
   
   '/categories/issues/': getItemsByDate("categories/issues"),
-  '/categories/fragments/': getItemsByDate("categories/fragments"),
-  '/categories/solutions/': getItemsByDate("categories/solutions"),
 
   '/categories/tools/': getItemsByDate("categories/tools"),
   '/categories/sites/': getItemsByDate("categories/sites"),

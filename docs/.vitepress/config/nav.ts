@@ -6,9 +6,8 @@ export const nav: DefaultTheme.Config['nav'] = [
     text: '我的分类',
     items: [
       { text: 'All in one', link: '/categories/all-in-one/index', activeMatch: '/categories/all-in-one/' },
-      { text: 'Bug万象集', link: '/categories/issues/index', activeMatch: '/categories/issues/' },
-      { text: '"杂碎"逆袭史', link: '/categories/fragments/index', activeMatch: '/categories/fragments/' },
-      { text: '方案春秋志', link: '/categories/solutions/index', activeMatch: '/categories/solutions/' }
+      { text: 'Bug万象集', link: '/categories/issues/index', activeMatch: '/categories/issues/' }
+    
     ],
     activeMatch: '/categories/'
   },
