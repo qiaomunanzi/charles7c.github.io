@@ -10,7 +10,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
   '/categories/issues/': getItemsByDate("categories/issues"),
 
   '/categories/tools/': getItemsByDate("categories/tools"),
-  '/categories/sites/': getItemsByDate("categories/sites")，
+  '/categories/sites/': getItemsByDate("categories/sites")
 
 
 }
