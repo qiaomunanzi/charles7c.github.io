@@ -1,11 +1,11 @@
 ---
-title: JavaScript 无法存储 Java Long 类型数据问题
-author: 查尔斯
-date: 2022/01/26 09:07
+title: All in one搭建避坑
+author: 乔先森
+date: 2024/08/05 09:07
 categories:
  - Bug万象集
 tags:
- - JavaScript
+ - "all in one"
 ---
 
 # JavaScript 无法存储 Java Long 类型数据问题
