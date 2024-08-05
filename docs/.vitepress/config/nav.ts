@@ -20,15 +20,7 @@ export const nav: DefaultTheme.Config['nav'] = [
     ],
     activeMatch: '/categories/'
   },
-  {
-    text: '我的小册',
-    items: [
-      { text: 'Java基础快速入门', link: '/courses/java/index', activeMatch: '/courses/java/' },
-      { text: 'MySQL快速入门', link: '/courses/mysql/index', activeMatch: '/courses/mysql/' },
-      { text: 'MyBatis快速入门', link: '/courses/mybatis/index', activeMatch: '/courses/mybatis/' }
-    ],
-    activeMatch: '/courses/'
-  },
+
   {
     text: '我的标签',
     link: '/tags',
