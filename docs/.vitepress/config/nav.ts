@@ -6,7 +6,7 @@ export const nav: DefaultTheme.Config['nav'] = [
     text: '我的分类',
     items: [
       { text: '折腾笔记', link: '/categories/notes/index', activeMatch: '/categories/notes/' },
-      { text: 'Bug万象集', link: '/categories/issues/index', activeMatch: '/categories/issues/' }
+      { text: '避坑指南', link: '/categories/issues/index', activeMatch: '/categories/issues/' }
     ],
     activeMatch: '/categories/'
   },
