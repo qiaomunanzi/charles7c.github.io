@@ -37,9 +37,5 @@ export const nav: DefaultTheme.Config['nav'] = [
     ],
     activeMatch: '/about/' // 当前页面处于匹配路径下时, 对应导航菜单将突出显示
   },
-  {
-    text: '导航',
-    items: [
-      { text: '导航', link: 'https://nav.qxs-docs.top' }
-  },
+  { text: '导航页', link: 'https://nav.qxs-docs.top/nav' },
 ];
