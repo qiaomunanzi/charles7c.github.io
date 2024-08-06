@@ -24,7 +24,6 @@ features:
     src: img/svg/focus.svg
     title: 保持专注
     details: “简单比复杂更难，你必须努力让你的想法变得清晰明了，让它变得简单。一旦你做到了简单，你就能搬动大山。” -- 乔布斯
-    link: https://www.qxs-docs.top
   - icon:
     src: img/svg/insight.svg
     title: 善于洞察
