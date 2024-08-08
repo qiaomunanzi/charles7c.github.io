@@ -13,19 +13,18 @@ export const nav: DefaultTheme.Config['nav'] = [
   {
     text: '我的工具',
     items: [
-      { text: '工具软件', link: '/categories/tools/index', activeMatch: '/categories/tools/' },
-      { text: '网站收藏夹', link: '/categories/sites/index', activeMatch: '/categories/sites/' }
+      { text: '工具 & 软件', link: '/categories/tools-softwares/index', activeMatch: '/categories/tools-softwares/' },
     ],
     activeMatch: '/categories/'
   },
 
   {
-    text: '我的标签',
+    text: '标签',
     link: '/tags',
     activeMatch: '/tags'
   },
   {
-    text: '我的归档',
+    text: '归档',
     link: '/archives',
     activeMatch: '/archives'
   },
