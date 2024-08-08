@@ -13,9 +13,9 @@ export const nav: DefaultTheme.Config['nav'] = [
   {
     text: '我的工具',
     items: [
-      { text: '工具 & 软件', link: '/categories/tools-softwares/index', activeMatch: '/categories/tools-softwares/' }
+      { text: '工具 & 软件', link: '/tools-softwares/index', activeMatch: '/tools-softwares/' }
     ],
-    activeMatch: '/categories/'
+    activeMatch: '/tools-softwares/'
   },
 
   {
