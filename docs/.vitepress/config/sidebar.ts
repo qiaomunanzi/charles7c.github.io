@@ -8,7 +8,7 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
   '/categories/notes/': getItemsByDate("categories/notes"),
   '/categories/issues/': getItemsByDate("categories/issues"),
 
-  '/categories/tools-softwares/': getItemsByDate("categories/tools-softwares"),
+  '/categories/tools-softwares/': getItemsByDate("categories/tools-softwares")
   
 
 }
