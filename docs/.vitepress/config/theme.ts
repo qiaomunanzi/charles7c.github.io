@@ -24,7 +24,7 @@ export const themeConfig: DefaultTheme.Config = {
   },
   // 编辑链接配置
   editLink: {
-    pattern: 'https://github.com/qiaomunanzi/charles7c.github.io/edit/main/docs/:path',
+    pattern: 'https://github.com/qiaomunanzi/qxs-docs/edit/main/docs/:path',
     text: '不妥之处，敬请雅正'
   },
   // 搜索配置（二选一）
