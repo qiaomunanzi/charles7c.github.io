@@ -2,8 +2,9 @@
 title: iStoreOS软路由
 author: 乔先森
 date: 2024/08/05 10:07
+isTop: false
 categories:
- - 折腾笔记
+ - 折腾记录
 tags:
  - iStoreOS
  - 软路由

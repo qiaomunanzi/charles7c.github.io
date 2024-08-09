@@ -2,9 +2,9 @@
 title: PVE虚拟机搭建All-in-one主机
 author: 乔先森
 date: 2024/08/04 10:00
-isTop: true
+isTop: false
 categories:
- - 折腾笔记
+ - 折腾记录
 tags:
  - PVE
  - 虚拟机
